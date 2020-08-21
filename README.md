@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Diego
 
-![Profile visits](https://badges.pufler.dev/visits/micheleriva/micheleriva?label=Profile%20visits&style=flat-square)
+![Profile visits](https://badges.pufler.dev/visits/diegossl/diegossl?label=Profile%20visits&style=flat-square)
 
 - 💻  I'm currently working as a **Developer Back-end** 
 - ⚙️  I'm focused on **NodeJS**, **TypeScript**

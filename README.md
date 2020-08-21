@@ -3,7 +3,7 @@
 ![Profile visits](https://badges.pufler.dev/visits/micheleriva/micheleriva?label=Profile%20visits&style=flat-square)
 
 - 💻  I'm currently working as a **Developer Back-end** 
-- ⚙️  I'm focused on **Node.js**, **TypeScript**, **Go**, **PHP**
+- ⚙️  I'm focused on **Node.js**, **TypeScript**
 - 🔭  I'd like to work with **Internet of Things**, **Artificial Intelligence**
 
 ## Some statistics

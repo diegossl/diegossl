@@ -12,7 +12,3 @@
 
 ![My github statistics](https://github-readme-stats.vercel.app/api?username=diegossl&hide=issues&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegossl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
-
-**diegossl94@gmail.com**

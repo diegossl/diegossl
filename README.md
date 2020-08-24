@@ -3,8 +3,8 @@
 ![Profile visits](https://badges.pufler.dev/visits/diegossl/diegossl?label=Profile%20visits&style=flat-square)
 
 - 💻  I'm currently working as a **Back-end Developer** 
-- 🎯  I'm focused on **NodeJS**, **TypeScript**, **Golang**
-- 🔭  I'd like to work with **Internet of Things**, **Artificial Intelligence**
+- 🎯  I'm focused on **NodeJS**, **TypeScript** and **Golang**
+- 🔭  I'd like to work with **Internet of Things**, **Artificial Intelligence** and **Data Science**
 
 ## Some statistics
 

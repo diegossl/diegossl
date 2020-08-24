@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Diego
+# 👋🏻 Hi there! I'm Diego
 
 ![Profile visits](https://badges.pufler.dev/visits/diegossl/diegossl?label=Profile%20visits&style=flat-square)
 

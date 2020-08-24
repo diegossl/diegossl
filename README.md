@@ -4,7 +4,7 @@
 
 - 💻  I'm currently working as a **Back-end Developer** 
 - 🎯  I'm focused on **JavaScript (NodeJS)** and **Golang**
-- 🔭  I'd like to work with **Internet of Things**, **Artificial Intelligence** and **Data Science**
+- 🔭  I'd like to work with **Internet of Things**, **Artificial Intelligence** or **Data Science**
 
 ## Some statistics
 

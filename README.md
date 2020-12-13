@@ -10,8 +10,8 @@
 
 <!-- ![My github statistics](https://github-readme-stats.vercel.app/api?username=diegossl&count_private=true) -->
 
-![My github statistics](https://github-readme-stats.vercel.app/api?username=diegossl&hide=issues&show_icons=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegossl&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)
+![My github statistics](https://github-readme-stats.vercel.app/api?username=diegossl&hide=issues&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegossl&layout=compact&hide_border=true)
 
 ## Contact
 

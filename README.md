@@ -1,7 +1,7 @@
 # 👋🏻 Hi there! I'm Diego
 
 - 💻  I'm currently working as a **Fullstack Developer** with **Angular (front-end)** and **NestJS (back-end)**
-- 🎯  I'm studying **Golang**, **Database** and **SQL**
+- 🎯  I'm studying **Golang**, **Python** **Database** and **SQL**
 - 🔭  I'd like to work with **Data Science**
 
 ## Some statistics
